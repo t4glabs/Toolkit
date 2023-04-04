@@ -1,0 +1,15 @@
+---
+- name: ERPNext
+  description: All in one solution for your HR, Finance, Inventory, Donors, Inventory, Projects, and more modules.
+  url: "https://t4glabs.discourse.group/docs?topic=456"
+  languages: [Malayalam]
+  categories: [Operations]
+  tags: [FOSS]
+
+- name: Sanchaya
+  description: A non-profit organisation working on Kannada digitising projects.
+  url: "https://sanchaya.org"
+  languages: [Kannada]
+  categories: [Health]
+  tags: [FOSS]
+
