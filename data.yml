@@ -1,15 +1,252 @@
 ---
+- name: Glific
+  description: A free, open-source, hassle-free, and efficient two-way communication platform tailored for non-profits, libraries, and social justice organisations.
+  url: "https://t4glabs.discourse.group/docs?topic=514"
+  languages: [open-source]
+  categories: [Toolkits]
+  tags: []
+
+- name: Exotel
+  description: A versatile, user-friendly, and feature-packed cloud telephony platform perfect for non-profits organisations.
+  url: "https://t4glabs.discourse.group/docs?topic=516"
+  languages: [ ]
+  categories: [Toolkits]
+  tags: [ ]
+
+- name: Wati.io
+  description: A feature-rich, easy-to-use, and efficient WhatsApp communication platform tailored for non-profits, libraries, and social justice organisations.
+  url: "https://t4glabs.discourse.group/docs?topic=515"
+  languages: []
+  categories: [Toolkits]
+  tags: []
+
+- name:  Whimsical
+  description: A versatile, no-nonsense, and efficient visual collaboration platform designed for creating flowcharts, wireframes, mind maps, and sticky notes
+  url: "https://t4glabs.discourse.group/docs?topic=513"
+  languages: []
+  categories: [Toolkits]
+  tags: [ ]
+
+- name: Omeka
+  description: A free, open-source, no-fuss, and efficient web-publishing platform designed for sharing digital collections and creating online exhibits.
+  url: "https://t4glabs.discourse.group/docs?topic=512"
+  languages: [open-source]
+  categories: [Toolkits]
+  tags: [ ]
+
+- name: Listmonk
+  description: A free, open-source, no-frills, lightning-fast email marketing and newsletter platform
+  url: "https://t4glabs.discourse.group/docs?topic=511"
+  languages: [open-source, free]
+  categories: [Toolkits]
+  tags: []
+
+- name: Mautic
+  description: A free, uncomplicated, high-speed marketing automation platform.
+  url: "https://t4glabs.discourse.group/docs?topic=510"
+  languages: [open-source]
+  categories: [Toolkits]
+  tags: []
+
+- name: Bearblog
+  description: A super simple, light, privacy-First Blogging Platform for everyone
+  url: "https://t4glabs.discourse.group/docs?topic=494"
+  languages: [open-source, free]
+  categories: [Toolkits]
+  tags: []
+
+- name: Ghost
+  description: Enhancing your publishing experience with Ghost - the open-source, professional-grade blogging platform.
+  url: "https://t4glabs.discourse.group/docs?topic=459"
+  languages: []
+  categories: [Toolkits]
+  tags: []
+
+- name: Free-for-Dev
+  description: List of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers
+  url: "https://t4glabs.discourse.group/docs?topic=409"
+  languages: [free]
+  categories: [Toolkits]
+  tags: []
+
+- name: Aam Digital
+  description: An easy-to-use case management platform designed specifically for the social sector
+  url: "https://t4glabs.discourse.group/docs?topic=517"
+  languages: [open-source]
+  categories: [Toolkits]
+  tags: []
+
+- name: Chatwoot
+  description: Chatwoot is an open-source customer support platform that enables businesses to manage their customer conversations. It’s a user-friendly, all-in-one solution that streamlines the customer support process.
+  url: "https://t4glabs.discourse.group/docs?topic=471"
+  languages: []
+  categories: [Engagement]
+  tags: [FOSS]
+
+- name: Discourse 
+  description: Create an engaging online Discussion Platform (like this one) to build and handle large-scale communities
+  url: "https://t4glabs.discourse.group/docs?topic=387"
+  languages: [open-source, free]
+  categories: [Engagement]
+  tags: []
+
+- name: PQ CRM
+  description: PQ CRM, nonprofit database management software
+  url: "https://t4glabs.discourse.group/docs?topic=402"
+  languages: [fundraising]
+  categories: [Engagement]
+  tags: []
+
+- name: FrappeDesk
+  description: Ensure last mile Delivery of services to all your stakeholders using this simple online platform
+  url: "https://t4glabs.discourse.group/docs?topic=386"
+  languages: [open-source, free]
+  categories: [Engagement]
+  tags: []
+
+- name: Salesforce
+  description: Salesforce for NonProfits - engage with your donors, supporters and communities
+  url: "https://t4glabs.discourse.group/docs?topic=373"
+  languages: [free]
+  categories: [Engagement]
+  tags: []
+
+- name: Telegram
+  description: A secure messaging app for one-one, teams, groups, community engagement and working together
+  url: "https://t4glabs.discourse.group/docs?topic=376"
+  languages: [visibility]
+  categories: [Engagement]
+  tags: [Proprietary]
+
+- name: Signal
+  description: One of the most Secure messaging apps to communicate safely and privately with your team and communities
+  url: "https://t4glabs.discourse.group/docs?topic=375"
+  languages: [free]
+  categories: [Engagement]
+  tags: [FOSS]
+
+- name: Blacklight
+  description: Real-Time Website Privacy Inspector
+  url:  "https://t4glabs.discourse.group/docs?topic=430"
+  languages: [open-source, free]
+  categories: [Security & Privacy]
+  tags: []
+
+- name: Matrix Messenger
+  description: A secure, end-to-end encrypted alternative to traditional centralised messaging platforms
+  url:  "https://t4glabs.discourse.group/docs?topic=382"
+  languages: [open-source, free]
+  categories: [Security & Privacy]
+  tags: [FOSS]
+
+- name: Mattermost
+  description: Secure messaging platform that is an alternative to Slack, Microsoft Teams, and other team collaboration tools
+  url:  "https://t4glabs.discourse.group/docs?topic=383"
+  languages: [open-source, free]
+  categories: [Security & Privacy]
+  tags: []
+
+- name: Project Galileo
+  description: A free cyber security program for at-risk sites catering to arts, human rights, civil society, journalism, or democracy
+  url:  "https://t4glabs.discourse.group/docs?topic=388"
+  languages: [free]
+  categories: [Security & Privacy]
+  tags:  []
+
+- name: Datawrapper.de
+  description: Easily Create Maps, Charts and Tables to present your data in a clear, impactful way for all types of audiences
+  url:  "https://t4glabs.discourse.group/docs?topic=374"
+  languages: [free]
+  categories: [ Data Toolkit]
+  tags: []
+
+- name: Avni 
+  description: An open-source data collection, aggregation and case management platform to help frontline workers serve communities
+  url:  "https://t4glabs.discourse.group/docs?topic=370"
+  languages: [open-source]
+  categories: [ Data Toolkit]
+  tags: []
+
+- name: Metabase
+  description: Help your team answer their own questions about data in just 5 minutes, no special tech skills required.
+  url:  "https://t4glabs.discourse.group/docs?topic=315"
+  languages: [open-source, free]
+  categories: [ Data Toolkit]
+  tags: []
+
+- name: Kobotoolbox
+  description: simple, free and powerful field data collection, aggregation and analysis tool for online/offline survey, field work
+  url:  "https://t4glabs.discourse.group/docs?topic=162"
+  languages: [open-source, free, public-good]
+  categories: [ Data Toolkit]
+  tags: [FOSS]
+
+- name: Undraw
+  description: Ready made Free Illustrations to use in powerpoints, reports, websites, posters, brochures and more
+  url:  "https://t4glabs.discourse.group/docs?topic=462"
+  languages: [open-source, free]
+  categories: [Visibility Kit]
+  tags: []
+
+- name: Stable Diffusion
+  description: Use AI to convert your thoughts to images, illustrations and more. Free and no coding required
+  url:  "https://t4glabs.discourse.group/docs?topic=458"
+  languages: []
+  categories: [Visibility Kit]
+  tags: []
+
+- name: Canva
+  description: Free Canva Pro for Non-Profits - Easily create professional digital, print designs online and share with your audience
+  url:  "https://t4glabs.discourse.group/docs?topic=372"
+  languages: []
+  categories: [Visibility Kit]
+  tags: [Proprietary]
+
+- name: ERPNext - effortlessly and efficiently manage your day to day processes and operations
+  description: ERPNext is an open-source enterprise resource planning (ERP) software that can help non-profits and social ventures manage their business processes and operations.
+  url:  "https://t4glabs.discourse.group/docs?topic=384"
+  languages: [open-source, free]
+  categories: [Making anything kit ]
+  tags: []
+
+- name: Appsmith - Build your own internal tools and dashboards with a simple a visual drag-drop interface. No coding required
+  description: Appsmith is an open-source workbench that makes it easy for developers to build internal tools without the need for complex coding or custom development.
+  url:  "https://t4glabs.discourse.group/docs?topic=389"
+  languages: [open-source, free]
+  categories: [Making anything kit ]
+  tags: []
+
+- name: FrappeLMS
+  description: Trainer friendly and simple Learning/Training management system for your organisations, communities
+  url:  "https://t4glabs.discourse.group/docs?topic=385"
+  languages: [open-source, free]
+  categories: [ Capacity Building]
+  tags: []
+
+- name: Moodle
+  description: Create, manage and deliver online courses and training for everyone
+  url:  "https://t4glabs.discourse.group/docs?topic=390"
+  languages: [open-source, free]
+  categories: [ Capacity Building]
+  tags: []
+
 - name: ERPNext
   description: All in one solution for your HR, Finance, Inventory, Donors, Inventory, Projects, and more modules.
   url: "https://t4glabs.discourse.group/docs?topic=456"
-  languages: [Malayalam]
+  languages: []
   categories: [Operations]
   tags: [FOSS]
 
-- name: Sanchaya
-  description: A non-profit organisation working on Kannada digitising projects.
-  url: "https://sanchaya.org"
-  languages: [Kannada]
+- name: Bahmni
+  description: Deliver health services to your community with this amazing healthcare records and patient information management tool.
+  url: "https://t4glabs.discourse.group/docs?topic=391"
+  languages: [open-source, free]
   categories: [Health]
   tags: [FOSS]
 
+- name: Github Pages
+  description: Free website hosting service that allows anyone to create and host a website directly from a GitHub repository.
+  url: "https://t4glabs.discourse.group/docs?topic=371"
+  languages: [open-source, free]
+  categories: [Discoverability]
+  tags: []
