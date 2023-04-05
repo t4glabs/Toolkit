@@ -15,7 +15,26 @@
 	<meta property="og:image" content="https://t4glabs.github.io/Toolkit/static/thumb.png" />
 
 	<link href='https://fonts.googleapis.com/css?family=Fira+Sans:400&display=swap' rel='stylesheet' type='text/css' />
-	<link href="static/style.css" rel="stylesheet" type="text/css" />	
+	<link href="static/style.css" rel="stylesheet" type="text/css" />
+
+
+    <script>
+		(function(d,t) {
+		  var BASE_URL="https://app.chatwoot.com";
+		  var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+		  g.src=BASE_URL+"/packs/js/sdk.js";
+		  g.defer = true;
+		  g.async = true;
+		  s.parentNode.insertBefore(g,s);
+		  g.onload=function(){
+			window.chatwootSDK.run({
+			  websiteToken: 'gfdkQBgbUixkFwJ2QpHoA26p',
+			  baseUrl: BASE_URL
+			})
+		  }
+		})(document,"script");
+	  </script>
+	  
 </head>
 <body>
 
@@ -24,7 +43,8 @@
 		<header class="header">
 			<a href="#" id="burger"><span></span><span></span><span></span></a>
 			<div class="logo">
-				<a href="/"><img src="static/logo.svg" alt="Toolkit page" /></a>
+				<!-- <a href="/"><img src="static/logo.svg" alt="Toolkit page" /></a> -->
+				<h2 class="logo-head" style="color: black; margin-top: 20px;"> <b>Tech4Good Toolkit - Project Genesis </b></h2>
 				<p class="slogan">A directory of Free and Open Source Software (FOSS) to help change makers amplify their impact.</p>
 			</div>
 			<div class="intro">
@@ -39,25 +59,25 @@
 		<section class="sidebar" id="sidebar">
 			<ul class="index">
         
-        <li class=""><a href="capacity-building.html">Capacity Building (2)</a></li>
+        <li class=""><a href="capacity building kit.html">Capacity Building Kit (2)</a></li>
         
-        <li class=""><a href="data-toolkit.html">Data Toolkit (3)</a></li>
+        <li class=""><a href="data toolkit.html">Data Toolkit (3)</a></li>
         
-        <li class=""><a href="discoverability.html">Discoverability (1)</a></li>
+        <li class=""><a href="discoverability kit.html">Discoverability Kit (1)</a></li>
         
-        <li class=""><a href="engagement.html">Engagement (5)</a></li>
+        <li class=""><a href="engagement kit.html">Engagement Kit (5)</a></li>
         
-        <li class=""><a href="health.html">Health (1)</a></li>
+        <li class=""><a href="health kit.html">Health Kit (1)</a></li>
         
-        <li class=""><a href="making-anything-kit.html">Making anything kit (2)</a></li>
+        <li class=""><a href="making anything kit.html">Making anything Kit (2)</a></li>
         
-        <li class=""><a href="operations.html">Operations (1)</a></li>
+        <li class=""><a href="operations kit.html">Operations Kit (1)</a></li>
         
-        <li class=""><a href="security-&-privacy.html">Security & Privacy (4)</a></li>
+        <li class=""><a href="security & privacy kit.html">Security & Privacy Kit (4)</a></li>
         
         <li class="selected"><a href="toolkits.html">Toolkits (9)</a></li>
         
-        <li class=""><a href="visibility-kit.html">Visibility Kit (2)</a></li>
+        <li class=""><a href="visibility kit.html">Visibility Kit (2)</a></li>
         
 			</ul>
 		</section>
@@ -88,14 +108,34 @@
 					
 
 					
+						<div class="tags">
+							
+								<label id="tag-FOSS">
+									<input type="checkbox" class="filter-tag" for="tag-FOSS" checked value="foss" />FOSS
+								</label>
+							
+								<label id="tag-LIST">
+									<input type="checkbox" class="filter-tag" for="tag-LIST" checked value="list" />LIST
+								</label>
+							
+								<label id="tag-Proprietary">
+									<input type="checkbox" class="filter-tag" for="tag-Proprietary" checked value="proprietary" />Proprietary
+								</label>
+							
+
+							<a href="#" class="toggle-filters" data-target="tag" data-state="on">&larr; Toggle</a>
+						</div>
+					
 				</div>
 
 				<ul id="items">
 					
 						<li class="item" 
 							data-languages="open-source|"
-							data-tags="">
+							data-tags="foss|">
 							<h2 class="title">
+								
+									<span class="tag">FOSS</span>
 								
 								<a href="https://t4glabs.discourse.group/docs?topic=517" class="link" target="_blank">Aam Digital</a>
 							</h2>
@@ -113,8 +153,10 @@
 					
 						<li class="item" 
 							data-languages="free|open-source|"
-							data-tags="">
+							data-tags="foss|">
 							<h2 class="title">
+								
+									<span class="tag">FOSS</span>
 								
 								<a href="https://t4glabs.discourse.group/docs?topic=494" class="link" target="_blank">Bearblog</a>
 							</h2>
@@ -134,8 +176,10 @@
 					
 						<li class="item" 
 							data-languages=""
-							data-tags="">
+							data-tags="proprietary|">
 							<h2 class="title">
+								
+									<span class="tag">Proprietary</span>
 								
 								<a href="https://t4glabs.discourse.group/docs?topic=516" class="link" target="_blank">Exotel</a>
 							</h2>
@@ -151,8 +195,10 @@
 					
 						<li class="item" 
 							data-languages="free|"
-							data-tags="">
+							data-tags="list|">
 							<h2 class="title">
+								
+									<span class="tag">LIST</span>
 								
 								<a href="https://t4glabs.discourse.group/docs?topic=409" class="link" target="_blank">Free-for-Dev</a>
 							</h2>
@@ -170,8 +216,10 @@
 					
 						<li class="item" 
 							data-languages=""
-							data-tags="">
+							data-tags="foss|">
 							<h2 class="title">
+								
+									<span class="tag">FOSS</span>
 								
 								<a href="https://t4glabs.discourse.group/docs?topic=459" class="link" target="_blank">Ghost</a>
 							</h2>
@@ -187,8 +235,10 @@
 					
 						<li class="item" 
 							data-languages="open-source|"
-							data-tags="">
+							data-tags="foss|">
 							<h2 class="title">
+								
+									<span class="tag">FOSS</span>
 								
 								<a href="https://t4glabs.discourse.group/docs?topic=514" class="link" target="_blank">Glific</a>
 							</h2>
@@ -206,8 +256,10 @@
 					
 						<li class="item" 
 							data-languages="free|open-source|"
-							data-tags="">
+							data-tags="foss|">
 							<h2 class="title">
+								
+									<span class="tag">FOSS</span>
 								
 								<a href="https://t4glabs.discourse.group/docs?topic=511" class="link" target="_blank">Listmonk</a>
 							</h2>
@@ -227,8 +279,10 @@
 					
 						<li class="item" 
 							data-languages="open-source|"
-							data-tags="">
+							data-tags="foss|">
 							<h2 class="title">
+								
+									<span class="tag">FOSS</span>
 								
 								<a href="https://t4glabs.discourse.group/docs?topic=510" class="link" target="_blank">Mautic</a>
 							</h2>
@@ -246,8 +300,10 @@
 					
 						<li class="item" 
 							data-languages="open-source|"
-							data-tags="">
+							data-tags="foss|">
 							<h2 class="title">
+								
+									<span class="tag">FOSS</span>
 								
 								<a href="https://t4glabs.discourse.group/docs?topic=512" class="link" target="_blank">Omeka</a>
 							</h2>
@@ -267,6 +323,10 @@
 			</section>
 		</section><!-- content -->
 	</div><!-- container -->
+	<div class="submit-container" style="text-align: center;">
+		<!-- <span class="tag lang">test</span> -->
+		<a href="https://ee.kobotoolbox.org/x/pDNbK4fD" target="_blank" class="kit-submit box">Submit new Toolkit &rarr;</a>
+	</div>
 
 	<footer>
 		Edit this page at <a href="https://github.com/t4glabs/toolkit">t4glabs/toolkit</a>
