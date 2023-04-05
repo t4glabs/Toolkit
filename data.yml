@@ -70,7 +70,7 @@
   tags: [FOSS]
 
 - name: Discourse 
-  description: Create an engaging online Discussion Platform (like this one) to build and handle large-scale communities
+  description: Create an engaging online Discussion Platform to build and handle large-scale communities.
   url: "https://t4glabs.discourse.group/docs?topic=387"
   languages: [open-source, free]
   categories: [Engagement]
