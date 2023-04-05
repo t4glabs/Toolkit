@@ -13,20 +13,6 @@
   categories: [Toolkits]
   tags: [ ]
 
-- name: Wati.io
-  description: A feature-rich, easy-to-use, and efficient WhatsApp communication platform tailored for non-profits, libraries, and social justice organisations.
-  url: "https://t4glabs.discourse.group/docs?topic=515"
-  languages: []
-  categories: [Toolkits]
-  tags: []
-
-- name:  Whimsical
-  description: A versatile, no-nonsense, and efficient visual collaboration platform designed for creating flowcharts, wireframes, mind maps, and sticky notes
-  url: "https://t4glabs.discourse.group/docs?topic=513"
-  languages: []
-  categories: [Toolkits]
-  tags: [ ]
-
 - name: Omeka
   description: A free, open-source, no-fuss, and efficient web-publishing platform designed for sharing digital collections and creating online exhibits.
   url: "https://t4glabs.discourse.group/docs?topic=512"
@@ -90,24 +76,10 @@
   categories: [Engagement]
   tags: []
 
-- name: PQ CRM
-  description: PQ CRM, nonprofit database management software
-  url: "https://t4glabs.discourse.group/docs?topic=402"
-  languages: [fundraising]
-  categories: [Engagement]
-  tags: []
-
 - name: FrappeDesk
   description: Ensure last mile Delivery of services to all your stakeholders using this simple online platform
   url: "https://t4glabs.discourse.group/docs?topic=386"
   languages: [open-source, free]
-  categories: [Engagement]
-  tags: []
-
-- name: Salesforce
-  description: Salesforce for NonProfits - engage with your donors, supporters and communities
-  url: "https://t4glabs.discourse.group/docs?topic=373"
-  languages: [free]
   categories: [Engagement]
   tags: []
 
@@ -153,13 +125,6 @@
   categories: [Security & Privacy]
   tags:  []
 
-- name: Datawrapper.de
-  description: Easily Create Maps, Charts and Tables to present your data in a clear, impactful way for all types of audiences
-  url:  "https://t4glabs.discourse.group/docs?topic=374"
-  languages: [free]
-  categories: [ Data Toolkit]
-  tags: []
-
 - name: Avni 
   description: An open-source data collection, aggregation and case management platform to help frontline workers serve communities
   url:  "https://t4glabs.discourse.group/docs?topic=370"
@@ -194,13 +159,6 @@
   languages: []
   categories: [Visibility Kit]
   tags: []
-
-- name: Canva
-  description: Free Canva Pro for Non-Profits - Easily create professional digital, print designs online and share with your audience
-  url:  "https://t4glabs.discourse.group/docs?topic=372"
-  languages: []
-  categories: [Visibility Kit]
-  tags: [Proprietary]
 
 - name: ERPNext - effortlessly and efficiently manage your day to day processes and operations
   description: ERPNext is an open-source enterprise resource planning (ERP) software that can help non-profits and social ventures manage their business processes and operations.
