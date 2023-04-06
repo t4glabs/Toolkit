@@ -59,7 +59,7 @@
 		<section class="sidebar" id="sidebar">
 			<ul class="index">
         {% for c in categories %}
-        <li class="{% if c == category %}selected{% endif %}"><a href="{{ c | lower }}.html">{{ c }} ({{ categories[c] }})</a></li>
+        <li class="{% if c == category %}selected{% endif %}"><a href="{{ c | lower|replace(' ', '-') }}.html">{{ c }} ({{ categories[c] }})</a></li>
         {% endfor %}
 			</ul>
 		</section>
