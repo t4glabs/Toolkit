@@ -13,7 +13,7 @@ def load_data(file):
 	with open(file, "r") as f:
 		out = yaml.load(f.read())
 		for item in out:
-			item["languages"].sort()
+			item["filters"].sort()
 			item["tags"].sort()
 		#print(out)
 		return out
@@ -42,35 +42,16 @@ def get_categories(data):
 	#print(OrderedDict(sorted(cat.items())))
 	return OrderedDict(sorted(cat.items()))
 
-#sidebar test
-def get_categories_for_sidebar(data):
-	cat = {}
+
+def get_filters(data):
+	filter = {}
 	for d in data:
-		for c in d["categories"]:
-			if c not in cat:
-				cat[c] = 0
-			#cat["help"] = 100
+		for l in d["filters"]:
+			if l not in filter:
+				filter[l] = 0
+			filter[l] += 1
 
-			for i in range(0, len(c), 1):
-				# Changing the ith character
-					# to '-' if it's a space.
-				if (c[i] == ' '):
-					c = c.replace(c[i], '-')
-      
-			cat[c] += 1
-	print(OrderedDict(sorted(cat.items())))
-	return OrderedDict(sorted(cat.items()))
-
-
-def get_languages(data):
-	langs = {}
-	for d in data:
-		for l in d["languages"]:
-			if l not in langs:
-				langs[l] = 0
-			langs[l] += 1
-
-	return OrderedDict(sorted(langs.items()))
+	return OrderedDict(sorted(filter.items()))
 
 
 def filter_by_category(category, data):
@@ -96,12 +77,12 @@ def make_filename(file, out_dir):
 def render_page(category, data, tpl, file):
 	cats = get_categories(data)
 	items = filter_by_category(category, data)
-	list_langs = get_languages(items)
+	list_filter = get_filters(items)
 	list_tags = get_tags(items)
 
 	html = tpl.render(categories=cats,
 		category=category,
-		list_languages=list_langs,
+		list_filters=list_filter,
 		list_tags=list_tags,
 		list=items)
 

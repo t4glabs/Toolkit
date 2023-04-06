@@ -66,16 +66,16 @@
 
 
 		<section class="content">
-			{% if ((list_tags | length) + (list_languages | length)) > 0 %}
+			{% if ((list_tags | length) + (list_filters | length)) > 0 %}
 				<a href="#" id="toggle-filters">Filter &rarr;</a>
 			{% endif %}
 			<section class="section" id="organisations">
 				<h3>{{ category }} ({{ list | length }})</h3>
 
 				<div class="filters" id="filters">
-					{% if list_languages | length > 1 %}
+					{% if list_filters | length > 1 %}
 						<div class="languages">
-							{% for l in list_languages %}
+							{% for l in list_filters %}
 								<label id="lang-{{ l }}">
 									<input type="checkbox" class="filter-language" for="lang-{{ l }}" checked value="{{ l | lower }}" />{{ l }}
 								</label>
@@ -101,7 +101,7 @@
 				<ul id="items">
 					{% for i in list %}
 						<li class="item" 
-							data-languages="{% for v in i.languages %}{{ v | lower}}|{% endfor %}"
+							data-filters="{% for v in i.filters %}{{ v | lower}}|{% endfor %}"
 							data-tags="{% for v in i.tags %}{{ v | lower}}|{% endfor %}">
 							<h2 class="title">
 								{% for t in i.tags %}
@@ -113,11 +113,11 @@
 							<p class="description">{{ i.description }}</p>
 
 							<div class="tags">
-								{% for l in i.languages %}
+								{% for l in i.filters %}
 									<span class="tag lang">{{ l }}</span>
 								{% endfor %}
 
-								<a href="" class="reveal">+{{ (i.languages | length) - 5 }} &larr; View all</a>
+								<a href="" class="reveal">+{{ (i.filters | length) - 5 }} &larr; View all</a>
 							</div>
 						</li>
 					{% endfor %}
