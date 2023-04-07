@@ -208,3 +208,38 @@
   filters: [open-source, free]
   categories: [Discoverability Kit]
   tags: [FOSS]
+
+- name: GnuCash
+  description: An open-source, versatile financial management software designed for personal and small-business use. With a wide range of features and an intuitive interface, GnuCash is an ideal solution for non-profits and social justice organizations seeking to manage their finances effectively without compromising on cost or accessibility.
+  url: "https://t4glabs.discourse.group/docs?topic=520"
+  filters: [open-source, free]
+  categories: [Operations Kit]
+  tags: [FOSS]
+
+- name: FrappeBooks
+  description: An open-source, user-friendly accounting software designed for individuals, non-profits, and social justice organizations. It provides a reliable solution for managing finances effectively without compromising on cost or accessibility.
+  url: "https://t4glabs.discourse.group/docs?topic=521"
+  filters: [open-source]
+  categories: [Operations Kit]
+  tags: [FOSS]
+
+- name: Frappe Desk
+  description: An open-source, feature-rich helpdesk and customer relationship management (CRM) platform. Ensure last mile Delivery of services to all your stakeholders using this simple online platform.
+  url: "https://t4glabs.discourse.group/docs?topic=386"
+  filters: [open-source, free]
+  categories: [Engagement Kit]
+  tags: [FOSS]
+
+- name: Proton Mail
+  description: An open-source, secure, and privacy-focused email service.
+  url: "https://t4glabs.discourse.group/docs?topic=522"
+  filters: [open-source]
+  categories: [Engagement Kit]
+  tags: [FOSS]
+
+- name: Yet Another Mail Merge (YAMM)
+  description: A powerful email campaign tool that integrates with Gmail and Google Sheets to simplify the process of sending personalized emails.
+  url: "https://t4glabs.discourse.group/docs?topic=523"
+  filters: []
+  categories: [Engagement Kit]
+  tags: [FOSS]
