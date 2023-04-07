@@ -77,7 +77,7 @@
   tags: [FOSS]
 
 - name: FrappeDesk
-  description: Ensure last mile Delivery of services to all your stakeholders using this simple online platform
+  description: An open-source, feature-rich helpdesk and customer relationship management (CRM) platform. Ensure last mile Delivery of services to all your stakeholders using this simple online platform.
   url: "https://t4glabs.discourse.group/docs?topic=386"
   filters: [open-source, free]
   categories: [Engagement Kit]
@@ -221,25 +221,4 @@
   url: "https://t4glabs.discourse.group/docs?topic=521"
   filters: [open-source]
   categories: [Operations Kit]
-  tags: [FOSS]
-
-- name: Frappe Desk
-  description: An open-source, feature-rich helpdesk and customer relationship management (CRM) platform. Ensure last mile Delivery of services to all your stakeholders using this simple online platform.
-  url: "https://t4glabs.discourse.group/docs?topic=386"
-  filters: [open-source, free]
-  categories: [Engagement Kit]
-  tags: [FOSS]
-
-- name: Proton Mail
-  description: An open-source, secure, and privacy-focused email service.
-  url: "https://t4glabs.discourse.group/docs?topic=522"
-  filters: [open-source]
-  categories: [Engagement Kit]
-  tags: [FOSS]
-
-- name: Yet Another Mail Merge (YAMM)
-  description: A powerful email campaign tool that integrates with Gmail and Google Sheets to simplify the process of sending personalized emails.
-  url: "https://t4glabs.discourse.group/docs?topic=523"
-  filters: []
-  categories: [Engagement Kit]
   tags: [FOSS]
