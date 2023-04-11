@@ -236,7 +236,8 @@ footer {
 		border: 1px solid #45cd7beb;
 		border-radius: 5px;
 		background-color: #E0FFEC;
-		color: #000000;
+		color: #666;
+		/* color: #000000; */
 	}
 
 	.kit-submit.box:hover {
