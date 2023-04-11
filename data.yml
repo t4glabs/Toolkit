@@ -3,14 +3,14 @@
   description: A free, open-source, hassle-free, and efficient two-way communication platform tailored for non-profits, libraries, and social justice organisations.
   url: "https://t4glabs.discourse.group/docs?topic=514"
   filters: [open-source]
-  categories: [Toolkits]
+  categories: [Engagement Kit]
   tags: [FOSS]
 
 - name: Exotel
   description: A versatile, user-friendly, and feature-packed cloud telephony platform perfect for non-profits organisations.
   url: "https://t4glabs.discourse.group/docs?topic=516"
   filters: []
-  categories: [Toolkits]
+  categories: [Engagement Kit]
   tags: [FOSS]
 
 - name: Omeka
@@ -24,28 +24,28 @@
   description: A free, open-source, no-frills, lightning-fast email marketing and newsletter platform
   url: "https://t4glabs.discourse.group/docs?topic=511"
   filters: [open-source, free]
-  categories: [Toolkits]
+  categories: [Engagement Kit]
   tags: [FOSS]
 
 - name: Mautic
   description: A free, uncomplicated, high-speed marketing automation platform.
   url: "https://t4glabs.discourse.group/docs?topic=510"
   filters: [open-source]
-  categories: [Toolkits]
+  categories: [Engagement Kit]
   tags: [FOSS]
 
 - name: Bearblog
   description: A super simple, light, privacy-First Blogging Platform for everyone
   url: "https://t4glabs.discourse.group/docs?topic=494"
   filters: [open-source, free]
-  categories: [Toolkits]
+  categories: [Visibility Kit]
   tags: [FOSS]
 
 - name: Ghost
   description: Enhancing your publishing experience with Ghost - the open-source, professional-grade blogging platform.
   url: "https://t4glabs.discourse.group/docs?topic=459"
   filters: []
-  categories: [Toolkits]
+  categories: [Visibility Kit]
   tags: [FOSS]
 
 - name: Free-for-Dev
@@ -59,7 +59,7 @@
   description: An easy-to-use case management platform designed specifically for the social sector
   url: "https://t4glabs.discourse.group/docs?topic=517"
   filters: [open-source]
-  categories: [Toolkits]
+  categories: [Data Toolkit]
   tags: [FOSS]
 
 - name: Chatwoot
@@ -139,6 +139,13 @@
   categories: [Data Toolkit]
   tags: [FOSS]
 
+- name: OpenDataKit
+  description: An open-source tool designed for mobile data collection and management, specifically tailored for social development organizations to gather and analyze data in the field.
+  url:  "https://t4glabs.discourse.group/docs?topic=530"
+  filters: [open-source]
+  categories: [Data Toolkit]
+  tags: [FOSS]
+
 - name: Kobotoolbox
   description: simple, free and powerful field data collection, aggregation and analysis tool for online/offline survey, field work
   url:  "https://t4glabs.discourse.group/docs?topic=162"
@@ -157,6 +164,13 @@
   description: Use AI to convert your thoughts to images, illustrations and more. Free and no coding required
   url:  "https://t4glabs.discourse.group/docs?topic=458"
   filters: []
+  categories: [Visibility Kit]
+  tags: [FOSS]
+
+- name: GIMP
+  description: An open-source, powerful, and versatile image editing software designed for tasks such as photo retouching, image composition, and image authoring.
+  url:  "https://t4glabs.discourse.group/docs?topic=528"
+  filters: [open-source, free]
   categories: [Visibility Kit]
   tags: [FOSS]
 
@@ -180,6 +194,20 @@
   filters: [open-source, free]
   categories: [Capacity Building Kit]
   tags: [FOSS]
+  
+- name: Odoo
+  description: Comprehensive suite of open-source business applications, including CRM, eCommerce, accounting, inventory, and project management.
+  url:  "https://t4glabs.discourse.group/docs?topic=527"
+  filters: [open-source]
+  categories: [Capacity Building Kit]
+  tags: [FOSS]
+
+- name: Open edX
+  description: An open-source platform designed for creating and delivering online courses. 
+  url:  "https://t4glabs.discourse.group/docs?topic=526"
+  filters: [open-source]
+  categories: [Capacity Building Kit]
+  tags: [FOSS]
 
 - name: Moodle
   description: Create, manage and deliver online courses and training for everyone
@@ -198,6 +226,20 @@
 - name: Bahmni
   description: Deliver health services to your community with this amazing healthcare records and patient information management tool.
   url: "https://t4glabs.discourse.group/docs?topic=391"
+  filters: [open-source, free]
+  categories: [Health Kit]
+  tags: [FOSS]
+
+- name: OpenMRS
+  description: A free, open-source electronic medical record (EMR) system designed specifically to support health care in low-resource settings.
+  url: "https://t4glabs.discourse.group/docs?topic=535"
+  filters: [open-source, free]
+  categories: [Health Kit]
+  tags: [FOSS]
+
+- name: GNU Health
+  description: An open-source, comprehensive health and hospital information system designed to improve the quality of healthcare in developing countries.
+  url: "https://t4glabs.discourse.group/docs?topic=529"
   filters: [open-source, free]
   categories: [Health Kit]
   tags: [FOSS]
