@@ -247,3 +247,9 @@ footer {
     gap: 43px;
     align-items: center;
 }
+
+.sub-wrap {
+	max-width: 900px;
+	margin: 0 auto;
+	padding: 4px 30px 0px 30px;
+}
