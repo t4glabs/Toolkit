@@ -17,7 +17,7 @@
   description: A free, open-source, no-fuss, and efficient web-publishing platform designed for sharing digital collections and creating online exhibits.
   url: "https://t4glabs.discourse.group/docs?topic=512"
   filters: [open-source]
-  categories: [Toolkits]
+  categories: [Design Kit]
   tags: [FOSS]
 
 - name: Listmonk
@@ -52,7 +52,7 @@
   description: List of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers
   url: "https://t4glabs.discourse.group/docs?topic=409"
   filters: [free]
-  categories: [Toolkits]
+  categories: [Others]
   tags: [LIST]
 
 - name: Aam Digital
