@@ -153,39 +153,18 @@
   categories: [Data Toolkit]
   tags: [FOSS]
 
-- name: Undraw
-  description: Ready made Free Illustrations to use in powerpoints, reports, websites, posters, brochures and more
-  url:  "https://t4glabs.discourse.group/docs?topic=462"
-  filters: [open-source, free]
-  categories: [Visibility Kit]
-  tags: [FOSS]
-
-- name: Stable Diffusion
-  description: Use AI to convert your thoughts to images, illustrations and more. Free and no coding required
-  url:  "https://t4glabs.discourse.group/docs?topic=458"
-  filters: []
-  categories: [Visibility Kit]
-  tags: [FOSS]
-
-- name: GIMP
-  description: An open-source, powerful, and versatile image editing software designed for tasks such as photo retouching, image composition, and image authoring.
-  url:  "https://t4glabs.discourse.group/docs?topic=528"
-  filters: [open-source, free]
-  categories: [Visibility Kit]
-  tags: [FOSS]
-
 - name: ERPNext
   description: ERPNext is an open-source enterprise resource planning (ERP) software that can help non-profits and social ventures manage their business processes and operations.
   url:  "https://t4glabs.discourse.group/docs?topic=384"
   filters: [open-source, free]
-  categories: [Making anything Kit]
+  categories: [Low Code - No Code Kit]
   tags: [FOSS]
 
 - name: Appsmith
   description: Appsmith is an open-source workbench that makes it easy for developers to build own internal tools and dashboards with a simple a visual drag-drop interface without the need for complex coding or custom development.
   url:  "https://t4glabs.discourse.group/docs?topic=389"
   filters: [open-source, free]
-  categories: [Making anything Kit]
+  categories: [Low Code - No Code Kit]
   tags: [FOSS]
 
 - name: FrappeLMS
@@ -263,4 +242,25 @@
   url: "https://t4glabs.discourse.group/docs?topic=521"
   filters: [open-source]
   categories: [Operations Kit]
+  tags: [FOSS]
+
+- name: GIMP
+  description: An open-source, powerful, and versatile image editing software designed for tasks such as photo retouching, image composition, and image authoring.
+  url:  "https://t4glabs.discourse.group/docs?topic=528"
+  filters: [open-source, free]
+  categories: [Design Kit]
+  tags: [FOSS]
+
+- name: Undraw
+  description: Ready made Free Illustrations to use in powerpoints, reports, websites, posters, brochures and more
+  url:  "https://t4glabs.discourse.group/docs?topic=462"
+  filters: [open-source, free]
+  categories: [Design Kit]
+  tags: [FOSS]
+
+- name: Stable Diffusion
+  description: Use AI to convert your thoughts to images, illustrations and more. Free and no coding required
+  url:  "https://t4glabs.discourse.group/docs?topic=458"
+  filters: []
+  categories: [Design Kit]
   tags: [FOSS]
