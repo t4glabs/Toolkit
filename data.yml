@@ -44,7 +44,7 @@
 - name: Ghost
   description: Enhancing your publishing experience with Ghost - the open-source, professional-grade blogging platform.
   url: "https://t4glabs.discourse.group/docs?topic=459"
-  filters: []
+  filters: [open-source]
   categories: [Visibility Kit]
   tags: [FOSS]
 
@@ -65,7 +65,7 @@
 - name: Chatwoot
   description: Chatwoot is an open-source customer support platform that enables businesses to manage their customer conversations. It’s a user-friendly, all-in-one solution that streamlines the customer support process.
   url: "https://t4glabs.discourse.group/docs?topic=471"
-  filters: []
+  filters: [open-source]
   categories: [Engagement Kit]
   tags: [FOSS]
 
@@ -79,7 +79,7 @@
 - name: FrappeDesk
   description: An open-source, feature-rich helpdesk and customer relationship management (CRM) platform. Ensure last mile Delivery of services to all your stakeholders using this simple online platform.
   url: "https://t4glabs.discourse.group/docs?topic=386"
-  filters: [open-source, free]
+  filters: [open-source]
   categories: [Engagement Kit]
   tags: [FOSS]
 
@@ -156,7 +156,7 @@
 - name: ERPNext
   description: ERPNext is an open-source enterprise resource planning (ERP) software that can help non-profits and social ventures manage their business processes and operations.
   url:  "https://t4glabs.discourse.group/docs?topic=384"
-  filters: [open-source, free]
+  filters: [open-source]
   categories: [Low Code - No Code Kit]
   tags: [FOSS]
 
@@ -170,7 +170,7 @@
 - name: FrappeLMS
   description: Trainer friendly and simple Learning/Training management system for your organisations, communities
   url:  "https://t4glabs.discourse.group/docs?topic=385"
-  filters: [open-source, free]
+  filters: [open-source]
   categories: [Capacity Building Kit]
   tags: [FOSS]
   
