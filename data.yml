@@ -171,28 +171,35 @@
   description: Trainer friendly and simple Learning/Training management system for your organisations, communities
   url:  "https://t4glabs.discourse.group/docs?topic=385"
   filters: [open-source]
-  categories: [Capacity Building Kit]
+  categories: [Learning Management Kit]
   tags: [FOSS]
   
 - name: Odoo
   description: Comprehensive suite of open-source business applications, including CRM, eCommerce, accounting, inventory, and project management.
   url:  "https://t4glabs.discourse.group/docs?topic=527"
   filters: [open-source]
-  categories: [Capacity Building Kit]
+  categories: [Low Code - No Code Kit]
   tags: [FOSS]
 
 - name: Open edX
   description: An open-source platform designed for creating and delivering online courses. 
   url:  "https://t4glabs.discourse.group/docs?topic=526"
   filters: [open-source]
-  categories: [Capacity Building Kit]
+  categories: [Learning Management Kit]
   tags: [FOSS]
 
 - name: Moodle
   description: Create, manage and deliver online courses and training for everyone
   url:  "https://t4glabs.discourse.group/docs?topic=390"
   filters: [open-source, free]
-  categories: [Capacity Building Kit]
+  categories: [Learning Management Kit]
+  tags: [FOSS]
+
+- name: Pupilfirst
+  description: The open-source LMS that lets your focus on your students.
+  url:  "https://www.pupilfirst.com/"
+  filters: [open-source, free]
+  categories: [Learning Management Kit]
   tags: [FOSS]
 
 - name: ERPNext
