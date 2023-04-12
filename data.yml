@@ -285,3 +285,136 @@
   filters: []
   categories: [Design Kit]
   tags: [FOSS]
+
+- name: Samaaja - Location based citizen engagement and crowdsourcing
+  description: Samaaja by FOSS United and Reap Benefit is an open source software solution for rapidly building location based civic services connected with volunteer, human interactions. It comes with all necessary UI and management features and can be easily extended into web applications and external mobile apps and systems via built-in APIs.
+  url:  "https://samaaja.org"
+  filters: [Community Engagement]
+  categories: [1. Showcase]
+  tags: []
+
+- name: Robinhood Army - Volunteer engagement through easy check-ins, gamification and more
+  description: Volunteer checkin app (Frappe) for Robin Hood Army, a non-profit that distributes food surplus via volunteers.This is a one-stop platform for thousands of Robins to "checkin" to food drives, get ranks and certificates, and see who the most active Robins is
+  url:  "https://checkin.robinhoodarmy.com"
+  filters: [Community Engagement]
+  categories: [1. Showcase]
+  tags: []
+
+- name: Field Guide to Human-Centered Design by IDEO
+  description: The Field Guide to Human-Centered Design from IDEO  has everything you need to understand the people you're designing for, to have more effective brainstorms, to prototype your ideas, and to ultimately arrive at more creative solutions.
+  url:  "http://www.designkit.org/resources/1.html"
+  filters: [Inclusive Design]
+  categories: [2. Frameworks]
+  tags: []
+
+- name: Online Tech Trainings, Resources, Tools by Tech4Good Community
+  description: Nonprofit Tech Maturity Assessment to help nonprofits understand where they stand with respect to leveraging technology from Tech4Good Community.
+  url:  "https://www.otterbytech4good.com/signin"
+  filters: [Assessment, Training]
+  categories: [2. Frameworks]
+  tags: []
+
+- name: FIELDBOOK by Ashoka ASPIRe
+  description: A guide to leveraging platforms for impact at scale - This DIY practical guide seeks to equip social entrepreneurs with proven design principles and best practices, to design for impact at scale, by enabling co-creation, building networks, and developing open digital infrastructure.
+  url:  "https://aspire.ashoka.org/media/336/download"
+  filters: [Inclusive Design]
+  categories: [2. Frameworks]
+  tags: []
+
+- name: We Are Not Users by Fields Of View
+  description: Fields of View introduces a theoretical model, terminology, examples, and a framework for bringing together the social, cultural, and political aspects of designing. 
+  url:  "http://fieldsofview.in/publications/wearenotusers/"
+  filters: [Inclusive Design]
+  categories: [2. Frameworks]
+  tags: []
+
+- name: Inclusive design & Framework by T4G Labs
+  description: Discover how tech is impacting your theory of change and co-create a roadmap to meaningfully leverage tech to better serve the communities you work with.
+  url:  "https://t4glabs.org/courses/1825"
+  filters: [Inclusive Design, Mentoring]
+  categories: [2. Frameworks]
+  tags: []
+
+- name: Project Genesis - Ecosystem to accelerate FOSS for Good
+  description: Help change makers use FOSS in their tech for impact projects by activating a thriving eco system.
+  url:  "https://whimsical.com/project-genesis-E1VRLSznma71sMYrh9VypU@2Ux7TurymN4Exvtz6Ycr"
+  filters: [Inclusive Design]
+  categories: [2. Frameworks]
+  tags: []
+
+- name: Tarento
+  description: A Nordic-Indo IT Services company - roviding Enterprise, Digital, Data and AI services and solutions. Open Source E-learning Platform for Maternity Healthcare, IMPROVING USER ADOPTION FOR UIDAI'S MAADHAAR APP, EkStep partnered with Tarento for building one of its critical components, ULCA(Universal Language Contribution API).
+  url:  "https://tarento.com"
+  filters: [Service Provider, Product Design, Consulting]
+  categories: [3. Tech Partners]
+  tags: []
+
+- name: Sanketika
+  description: Platform architecture Solutioning, Feature definition, and road mapping Engineering and delivery management Performance Engineering Opensource ecosystem evangelism Cross-functional co-ordination between programs, product and engineering Engineering practice & processes Running the largest instance of Sunbird.
+  url:  "http://sanketika.in/"
+  filters: [Service Provider, Product Design, Consulting]
+  categories: [3. Tech Partners]
+  tags: []
+
+- name: OptIT
+  description: We are a vendor-neutral IT infrastructure solutions & services company. It can be confusing to determine which of the plethora of solutions will bring you the highest returns on your investment. But lesser-known brands can offer you greater value for your money for the same functionality, and thus higher returns.
+  url:  "http://optit.in"
+  filters: [Service Provider, Consulting]
+  categories: [3. Tech Partners]
+  tags: []
+
+- name: Qualitrix
+  description:  Qualitrix set up an independent testing unit for the end-to-end quality needs of DIKSHA (Digital Infrastructure for Knowledge Sharing) is a national platform for school education.
+  url:  "http://qualitrix.com"
+  filters: [Service Provider, Product Design, Consulting]
+  categories: [3. Tech Partners]
+  tags: []
+
+- name: Samagra
+  description: Working to improve the quality of life of citizens through better governance. Focussed on creating a layer of reusable OpenSource products for governments that will serve as a government operating system.
+  url:  "http://samagragovernance.in"
+  filters: [Service Provider, Consulting]
+  categories: [3. Tech Partners]
+  tags: []
+
+- name: Jinso Raj
+  description: Jinso is a Tech4Good Fellow at T4G Labs. Can help with Telegram Bots, Websites, Deploying open-source tools and configuring. He is currently enrolled for the Frappe Developer Certification course.
+  url:  "https://www.linkedin.com/in/jinsoraj/"
+  filters: [Developer, Trainer]
+  categories: [4. FOSS Friends]
+  tags: []
+
+- name: Megha J
+  description: Megha is a Tech4Good Fellow at T4G Labs. Can help with Websites on Github Pages, TailwindCSS, KoboToolBox, Telegram Bots.
+  url:  "https://www.linkedin.com/in/megha-jibhakate/"
+  filters: [Developer, Trainer]
+  categories: [4. FOSS Friends]
+  tags: []
+
+- name: Lily Lakra
+  description: Lily is a Tech4Good Fellow at T4G Labs. Can help with Websites on Github Pages, Bootstrap, KoboToolBox, Telegram Bots. 
+  url:  "https://www.linkedin.com/in/lily-sneha-lakra/"
+  filters: [Developer, Trainer]
+  categories: [4. FOSS Friends]
+  tags: []
+
+- name: Rohit Chatterjee
+  description: Rohit is an expert in Software Architecture and a Data Engineer, Data Scientist. Works at Tech4Dev.
+  url:  "https://www.linkedin.com/in/rohit-chatterjee-7a8552/"
+  filters: [Data, Architecture, Strategy]
+  categories: [4. FOSS Friends]
+  tags: []
+
+- name: Tony D'Souza
+  description: Passionate about mental health, education, livelihoods, governance, products, and action research. Can help with Inclusive Product Design.
+  url:  "https://www.linkedin.com/in/tonybriandsouza/"
+  filters: [Inclusive Design, Product Management]
+  categories: [4. FOSS Friends]
+  tags: []
+
+- name: Shemeer
+  description: Shemeer is a Tech4Good Fellow and Co-founder at T4G Labs. Can help with de-mystifying how you can leverage tech for your mission, recommending the right FOSS tools for your needs.
+  url:  "https://www.linkedin.com/in/shemeer-babu-2590a7196/"
+  filters: [Strategy, Inclusive Design, Product Manager, Trainer]
+  categories: [4. FOSS Friends]
+  tags: []
