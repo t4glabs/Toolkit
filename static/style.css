@@ -65,6 +65,15 @@ footer {
 	width: 100%;
 	display: flex;
 	margin-bottom: 15px;
+	/* *** */
+	flex-direction: column;
+
+}
+
+.logo{
+	display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 	.logo a {
 		border: 0;
@@ -189,6 +198,10 @@ footer {
 		background: #f9f9f9;
 	}
 
+	#search2{
+		display: none;
+	}
+
 @media(max-width: 750px) {
 	.wrap {
 		padding: 15px;
@@ -202,7 +215,12 @@ footer {
 	}
 	.search {
 		float: none;
+		display: none;
 		width: 100%;
+	}
+	/* ******* */
+	#search2{
+		display: block;
 	}
 	.intro {
 		margin: auto;
@@ -216,6 +234,12 @@ footer {
 	}
 	#items .item {
 		padding: 15px 15px;
+	}
+	/* ********** */
+	.logo{
+		display: flex;
+		flex-direction: column;
+		gap: 20px;
 	}
 }
 
