@@ -265,13 +265,6 @@
   categories: [Design Kit]
   tags: [FOSS]
 
-- name: Stable Diffusion
-  description: Use AI to convert your thoughts to images, illustrations and more. Free and no coding required
-  url:  "https://t4glabs.discourse.group/docs?topic=458"
-  filters: [open-source, free]
-  categories: [Design Kit]
-  tags: [FOSS]
-
 - name: Samaaja - Location based citizen engagement and crowdsourcing
   description: Samaaja by FOSS United and Reap Benefit is a location based civic services connected with volunteer, human interactions.
   url:  "https://samaaja.org"
