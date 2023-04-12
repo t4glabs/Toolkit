@@ -1,20 +1,13 @@
 ---
 - name: Glific
-  description: A free, open-source, hassle-free, and efficient two-way communication platform tailored for non-profits, libraries, and social justice organisations.
+  description: A free, open-source, simple two-way communication platform for Change makers to talk to their communities.
   url: "https://t4glabs.discourse.group/docs?topic=514"
-  filters: [open-source]
-  categories: [Engagement Kit]
-  tags: [FOSS]
-
-- name: Exotel
-  description: A versatile, user-friendly, and feature-packed cloud telephony platform perfect for non-profits organisations.
-  url: "https://t4glabs.discourse.group/docs?topic=516"
-  filters: []
+  filters: [open-source, paid]
   categories: [Engagement Kit]
   tags: [FOSS]
 
 - name: Omeka
-  description: A free, open-source, no-fuss, and efficient web-publishing platform designed for sharing digital collections and creating online exhibits.
+  description: A free, open-source, no-fuss, and efficient web-publishing platform for sharing digital collections, creating online exhibits.
   url: "https://t4glabs.discourse.group/docs?topic=512"
   filters: [open-source]
   categories: [Design Kit]
@@ -23,7 +16,7 @@
 - name: Listmonk
   description: A free, open-source, no-frills, lightning-fast email marketing and newsletter platform
   url: "https://t4glabs.discourse.group/docs?topic=511"
-  filters: [open-source, free]
+  filters: [open-source]
   categories: [Engagement Kit]
   tags: [FOSS]
 
@@ -37,63 +30,56 @@
 - name: Bearblog
   description: A super simple, light, privacy-First Blogging Platform for everyone
   url: "https://t4glabs.discourse.group/docs?topic=494"
-  filters: [open-source, free]
+  filters: [open-source, freemium]
   categories: [Visibility Kit]
   tags: [FOSS]
 
 - name: Ghost
   description: Enhancing your publishing experience with Ghost - the open-source, professional-grade blogging platform.
   url: "https://t4glabs.discourse.group/docs?topic=459"
-  filters: [open-source]
+  filters: [open-source, paid]
   categories: [Visibility Kit]
   tags: [FOSS]
 
-- name: Free-for-Dev
-  description: List of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers
-  url: "https://t4glabs.discourse.group/docs?topic=409"
-  filters: [free]
-  categories: [Others]
-  tags: [LIST]
-
 - name: Aam Digital
-  description: An easy-to-use case management platform designed specifically for the social sector
+  description: An easy-to-use case management platform designed for the social sector
   url: "https://t4glabs.discourse.group/docs?topic=517"
-  filters: [open-source]
+  filters: [open-source, discounted]
   categories: [Data Toolkit]
   tags: [FOSS]
 
 - name: Chatwoot
   description: Chatwoot is an open-source customer support platform that enables businesses to manage their customer conversations. It’s a user-friendly, all-in-one solution that streamlines the customer support process.
   url: "https://t4glabs.discourse.group/docs?topic=471"
-  filters: [open-source]
+  filters: [open-source, freemium]
   categories: [Engagement Kit]
   tags: [FOSS]
 
 - name: Discourse 
-  description: Create an engaging online Discussion Platform to build and handle large-scale communities.
+  description: Create an engaging online Discussion Platform to build and handle large communities.
   url: "https://t4glabs.discourse.group/docs?topic=387"
-  filters: [open-source, free]
+  filters: [open-source, freemium, discounted]
   categories: [Engagement Kit]
   tags: [FOSS]
 
 - name: FrappeDesk
-  description: An open-source, feature-rich helpdesk and customer relationship management (CRM) platform. Ensure last mile Delivery of services to all your stakeholders using this simple online platform.
+  description: An open-source, feature-rich helpdesk and customer relationship management (CRM) platform.
   url: "https://t4glabs.discourse.group/docs?topic=386"
-  filters: [open-source]
+  filters: [open-source, paid]
   categories: [Engagement Kit]
   tags: [FOSS]
 
 - name: Telegram
   description: A secure messaging app for one-one, teams, groups, community engagement and working together
   url: "https://t4glabs.discourse.group/docs?topic=376"
-  filters: [visibility]
+  filters: [open-source, free]
   categories: [Engagement Kit]
   tags: [FOSS]
 
 - name: Signal
   description: One of the most Secure messaging apps to communicate safely and privately with your team and communities
   url: "https://t4glabs.discourse.group/docs?topic=375"
-  filters: [free]
+  filters: [open-source, free]
   categories: [Engagement Kit]
   tags: [FOSS]
 
@@ -107,14 +93,14 @@
 - name: Matrix Messenger
   description: A secure, end-to-end encrypted alternative to traditional centralised messaging platforms
   url:  "https://t4glabs.discourse.group/docs?topic=382"
-  filters: [open-source, free]
+  filters: [open-source, freemium]
   categories: [Security & Privacy Kit]
   tags: [FOSS]
 
 - name: Mattermost
   description: Secure messaging platform that is an alternative to Slack, Microsoft Teams, and other team collaboration tools
   url:  "https://t4glabs.discourse.group/docs?topic=383"
-  filters: [open-source, free]
+  filters: [open-source, freemium]
   categories: [Security & Privacy Kit]
   tags: [FOSS]
 
@@ -128,56 +114,56 @@
 - name: Avni 
   description: An open-source data collection, aggregation and case management platform to help frontline workers serve communities
   url:  "https://t4glabs.discourse.group/docs?topic=370"
-  filters: [open-source]
+  filters: [open-source, freemium]
   categories: [Data Toolkit]
   tags: [FOSS]
 
 - name: Metabase
   description: Help your team answer their own questions about data in just 5 minutes, no special tech skills required.
   url:  "https://t4glabs.discourse.group/docs?topic=315"
-  filters: [open-source, free]
+  filters: [open-source]
   categories: [Data Toolkit]
   tags: [FOSS]
 
 - name: OpenDataKit
   description: An open-source tool designed for mobile data collection and management, specifically tailored for social development organizations to gather and analyze data in the field.
   url:  "https://t4glabs.discourse.group/docs?topic=530"
-  filters: [open-source]
+  filters: [open-source, paid]
   categories: [Data Toolkit]
   tags: [FOSS]
 
 - name: Kobotoolbox
   description: simple, free and powerful field data collection, aggregation and analysis tool for online/offline survey, field work
   url:  "https://t4glabs.discourse.group/docs?topic=162"
-  filters: [open-source, free, public-good]
+  filters: [open-source, free]
   categories: [Data Toolkit]
   tags: [FOSS]
 
 - name: ERPNext
   description: ERPNext is an open-source enterprise resource planning (ERP) software that can help non-profits and social ventures manage their business processes and operations.
   url:  "https://t4glabs.discourse.group/docs?topic=384"
-  filters: [open-source]
+  filters: [open-source, paid]
   categories: [Low Code - No Code Kit]
   tags: [FOSS]
 
 - name: Appsmith
   description: Appsmith is an open-source workbench that makes it easy for developers to build own internal tools and dashboards with a simple a visual drag-drop interface without the need for complex coding or custom development.
   url:  "https://t4glabs.discourse.group/docs?topic=389"
-  filters: [open-source, free]
+  filters: [open-source, freemium]
   categories: [Low Code - No Code Kit]
   tags: [FOSS]
 
 - name: FrappeLMS
   description: Trainer friendly and simple Learning/Training management system for your organisations, communities
   url:  "https://t4glabs.discourse.group/docs?topic=385"
-  filters: [open-source]
+  filters: [open-source, paid]
   categories: [Learning Management Kit]
   tags: [FOSS]
   
 - name: Odoo
   description: Comprehensive suite of open-source business applications, including CRM, eCommerce, accounting, inventory, and project management.
   url:  "https://t4glabs.discourse.group/docs?topic=527"
-  filters: [open-source]
+  filters: [open-source, freemium]
   categories: [Low Code - No Code Kit]
   tags: [FOSS]
 
@@ -191,35 +177,35 @@
 - name: Moodle
   description: Create, manage and deliver online courses and training for everyone
   url:  "https://t4glabs.discourse.group/docs?topic=390"
-  filters: [open-source, free]
+  filters: [open-source]
   categories: [Learning Management Kit]
   tags: [FOSS]
 
 - name: Pupilfirst
   description: The open-source LMS that lets your focus on your students.
   url:  "https://www.pupilfirst.com/"
-  filters: [open-source, free]
+  filters: [open-source]
   categories: [Learning Management Kit]
   tags: [FOSS]
 
 - name: ERPNext
   description: All in one solution for your HR, Finance, Inventory, Donors, Inventory, Projects, and more modules.
   url: "https://t4glabs.discourse.group/docs?topic=456"
-  filters: []
+  filters: [open-source, paid]
   categories: [Operations Kit]
   tags: [FOSS]
 
 - name: Bahmni
   description: Deliver health services to your community with this amazing healthcare records and patient information management tool.
   url: "https://t4glabs.discourse.group/docs?topic=391"
-  filters: [open-source, free]
+  filters: [open-source]
   categories: [Health Kit]
   tags: [FOSS]
 
 - name: OpenMRS
   description: A free, open-source electronic medical record (EMR) system designed specifically to support health care in low-resource settings.
   url: "https://t4glabs.discourse.group/docs?topic=535"
-  filters: [open-source, free]
+  filters: [open-source]
   categories: [Health Kit]
   tags: [FOSS]
 
@@ -238,9 +224,9 @@
   tags: [FOSS]
 
 - name: WordPress
-  description: An open-source Content Management System (CMS) that allows users to create, manage, and publish digital content on the web.
+  description: An open-source Content Management System (CMS) to create, manage, and publish digital content on the web.
   url: "https://t4glabs.discourse.group/docs?topic=542"
-  filters: [open-source, free]
+  filters: [open-source, freemium]
   categories: [Discoverability Kit]
   tags: [FOSS]
 
@@ -259,14 +245,14 @@
   tags: [FOSS]
 
 - name: FrappeBooks
-  description: An open-source, user-friendly accounting software designed for individuals, non-profits, and social justice organizations. It provides a reliable solution for managing finances effectively without compromising on cost or accessibility.
+  description: An open-source, user-friendly accounting software
   url: "https://t4glabs.discourse.group/docs?topic=521"
-  filters: [open-source]
+  filters: [open-source, free]
   categories: [Operations Kit]
   tags: [FOSS]
 
 - name: GIMP
-  description: An open-source, powerful, and versatile image editing software designed for tasks such as photo retouching, image composition, and image authoring.
+  description: An open-source, powerful, and versatile image editing software
   url:  "https://t4glabs.discourse.group/docs?topic=528"
   filters: [open-source, free]
   categories: [Design Kit]
@@ -282,54 +268,54 @@
 - name: Stable Diffusion
   description: Use AI to convert your thoughts to images, illustrations and more. Free and no coding required
   url:  "https://t4glabs.discourse.group/docs?topic=458"
-  filters: []
+  filters: [open-source, free]
   categories: [Design Kit]
   tags: [FOSS]
 
 - name: Samaaja - Location based citizen engagement and crowdsourcing
-  description: Samaaja by FOSS United and Reap Benefit is an open source software solution for rapidly building location based civic services connected with volunteer, human interactions. It comes with all necessary UI and management features and can be easily extended into web applications and external mobile apps and systems via built-in APIs.
+  description: Samaaja by FOSS United and Reap Benefit is a location based civic services connected with volunteer, human interactions.
   url:  "https://samaaja.org"
   filters: [Community Engagement]
   categories: [1. Showcase]
   tags: []
 
 - name: Robinhood Army - Volunteer engagement through easy check-ins, gamification and more
-  description: Volunteer checkin app (Frappe) for Robin Hood Army, a non-profit that distributes food surplus via volunteers.This is a one-stop platform for thousands of Robins to "checkin" to food drives, get ranks and certificates, and see who the most active Robins is
+  description: Volunteer checkin app (Frappe) to help distribute food surplus via volunteers. Thousands of Robins use this to food drives, get badges,etc
   url:  "https://checkin.robinhoodarmy.com"
   filters: [Community Engagement]
   categories: [1. Showcase]
   tags: []
 
 - name: Field Guide to Human-Centered Design by IDEO
-  description: The Field Guide to Human-Centered Design from IDEO  has everything you need to understand the people you're designing for, to have more effective brainstorms, to prototype your ideas, and to ultimately arrive at more creative solutions.
+  description: Understand the people you are designing for, to prototype your ideas, and to arrive at more creative solutions.
   url:  "http://www.designkit.org/resources/1.html"
   filters: [Inclusive Design]
   categories: [2. Frameworks]
   tags: []
 
 - name: Online Tech Trainings, Resources, Tools by Tech4Good Community
-  description: Nonprofit Tech Maturity Assessment to help nonprofits understand where they stand with respect to leveraging technology from Tech4Good Community.
+  description: Nonprofit Tech Maturity AssessmentS, training, support for nonprofitS
   url:  "https://www.otterbytech4good.com/signin"
   filters: [Assessment, Training]
   categories: [2. Frameworks]
   tags: []
 
 - name: FIELDBOOK by Ashoka ASPIRe
-  description: A guide to leveraging platforms for impact at scale - This DIY practical guide seeks to equip social entrepreneurs with proven design principles and best practices, to design for impact at scale, by enabling co-creation, building networks, and developing open digital infrastructure.
+  description: A DIY practical guide to leveraging platforms for impact at scale for social entrepreneurs
   url:  "https://aspire.ashoka.org/media/336/download"
   filters: [Inclusive Design]
   categories: [2. Frameworks]
   tags: []
 
 - name: We Are Not Users by Fields Of View
-  description: Fields of View introduces a theoretical model, terminology, examples, and a framework for bringing together the social, cultural, and political aspects of designing. 
+  description: A model, terminology, examples, and a framework for bringing together the social, cultural, and political aspects of designing. 
   url:  "http://fieldsofview.in/publications/wearenotusers/"
   filters: [Inclusive Design]
   categories: [2. Frameworks]
   tags: []
 
 - name: Inclusive design & Framework by T4G Labs
-  description: Discover how tech is impacting your theory of change and co-create a roadmap to meaningfully leverage tech to better serve the communities you work with.
+  description: Co-create a roadmap to meaningfully leverage tech to better serve the communities you work with.
   url:  "https://t4glabs.org/courses/1825"
   filters: [Inclusive Design, Mentoring]
   categories: [2. Frameworks]
@@ -343,35 +329,35 @@
   tags: []
 
 - name: Tarento
-  description: A Nordic-Indo IT Services company - roviding Enterprise, Digital, Data and AI services and solutions. Open Source E-learning Platform for Maternity Healthcare, IMPROVING USER ADOPTION FOR UIDAI'S MAADHAAR APP, EkStep partnered with Tarento for building one of its critical components, ULCA(Universal Language Contribution API).
+  description: Enterprise, Digital, Data and AI services and other tech solutions.
   url:  "https://tarento.com"
   filters: [Service Provider, Product Design, Consulting]
   categories: [3. Tech Partners]
   tags: []
 
 - name: Sanketika
-  description: Platform architecture Solutioning, Feature definition, and road mapping Engineering and delivery management Performance Engineering Opensource ecosystem evangelism Cross-functional co-ordination between programs, product and engineering Engineering practice & processes Running the largest instance of Sunbird.
+  description: Platform architecture Solutioning, Feature definition, and road mapping Engineering and delivery management Performance Engineering Opensource ecosystem.
   url:  "http://sanketika.in/"
   filters: [Service Provider, Product Design, Consulting]
   categories: [3. Tech Partners]
   tags: []
 
 - name: OptIT
-  description: We are a vendor-neutral IT infrastructure solutions & services company. It can be confusing to determine which of the plethora of solutions will bring you the highest returns on your investment. But lesser-known brands can offer you greater value for your money for the same functionality, and thus higher returns.
+  description: IT infrastructure solutions & services company. Focused to bring you the highest returns on your investment.
   url:  "http://optit.in"
   filters: [Service Provider, Consulting]
   categories: [3. Tech Partners]
   tags: []
 
 - name: Qualitrix
-  description:  Qualitrix set up an independent testing unit for the end-to-end quality needs of DIKSHA (Digital Infrastructure for Knowledge Sharing) is a national platform for school education.
+  description:  Qualitrix set up an independent testing unit for the end-to-end quality needs of big tech projects.
   url:  "http://qualitrix.com"
   filters: [Service Provider, Product Design, Consulting]
   categories: [3. Tech Partners]
   tags: []
 
 - name: Samagra
-  description: Working to improve the quality of life of citizens through better governance. Focussed on creating a layer of reusable OpenSource products for governments that will serve as a government operating system.
+  description: Working to improve the quality of life of citizens through better governance. Focussed on creating a layer of reusable OpenSource products.
   url:  "http://samagragovernance.in"
   filters: [Service Provider, Consulting]
   categories: [3. Tech Partners]
