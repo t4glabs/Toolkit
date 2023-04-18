@@ -31,14 +31,14 @@
   description: A super simple, light, privacy-First Blogging Platform for everyone
   url: "https://t4glabs.discourse.group/docs?topic=494"
   filters: [open-source, freemium]
-  categories: [Visibility Kit]
+  categories: [Blog & Social Media Kit]
   tags: [FOSS]
 
 - name: Ghost
   description: Enhancing your publishing experience with Ghost - the open-source, professional-grade blogging platform.
   url: "https://t4glabs.discourse.group/docs?topic=459"
   filters: [open-source, paid]
-  categories: [Visibility Kit]
+  categories: [Blog & Social Media Kit]
   tags: [FOSS]
 
 - name: Aam Digital
@@ -69,16 +69,9 @@
   categories: [Engagement Kit]
   tags: [FOSS]
 
-- name: Telegram
-  description: A secure messaging app for one-one, teams, groups, community engagement and working together
-  url: "https://t4glabs.discourse.group/docs?topic=376"
-  filters: [open-source, free]
-  categories: [Engagement Kit]
-  tags: [FOSS]
-
-- name: Signal
-  description: One of the most Secure messaging apps to communicate safely and privately with your team and communities
-  url: "https://t4glabs.discourse.group/docs?topic=375"
+- name: Telegram Bots
+  description: Simple, Free, Useful Telegram Bots for Changemakers
+  url: "https://bots4good.org/"
   filters: [open-source, free]
   categories: [Engagement Kit]
   tags: [FOSS]
@@ -87,20 +80,6 @@
   description: Real-Time Website Privacy Inspector
   url:  "https://t4glabs.discourse.group/docs?topic=430"
   filters: [open-source, free]
-  categories: [Security & Privacy Kit]
-  tags: [FOSS]
-
-- name: Matrix Messenger
-  description: A secure, end-to-end encrypted alternative to traditional centralised messaging platforms
-  url:  "https://t4glabs.discourse.group/docs?topic=382"
-  filters: [open-source, freemium]
-  categories: [Security & Privacy Kit]
-  tags: [FOSS]
-
-- name: Mattermost
-  description: Secure messaging platform that is an alternative to Slack, Microsoft Teams, and other team collaboration tools
-  url:  "https://t4glabs.discourse.group/docs?topic=383"
-  filters: [open-source, freemium]
   categories: [Security & Privacy Kit]
   tags: [FOSS]
 
@@ -220,21 +199,21 @@
   description: Free website hosting service that allows anyone to create and host a website directly from a GitHub repository.
   url: "https://t4glabs.discourse.group/docs?topic=371"
   filters: [open-source, free]
-  categories: [Discoverability Kit]
+  categories: [Website Kit]
   tags: [FOSS]
 
 - name: WordPress
   description: An open-source Content Management System (CMS) to create, manage, and publish digital content on the web.
   url: "https://t4glabs.discourse.group/docs?topic=542"
   filters: [open-source, freemium]
-  categories: [Discoverability Kit]
+  categories: [Website Kit]
   tags: [FOSS]
 
 - name: Drupal
   description: A flexible and powerful Content Management System (CMS) to build your scalable website or application.
   url: "https://t4glabs.discourse.group/docs?topic=543"
   filters: [open-source]
-  categories: [Discoverability Kit]
+  categories: [Website Kit]
   tags: [FOSS]
 
 - name: GnuCash
@@ -460,3 +439,31 @@
   filters: [Strategy, Inclusive Design, Product Manager, Trainer]
   categories: [4. FOSS Friends]
   tags: []
+
+- name: Mattermost
+  description: Secure messaging platform that is an alternative to Slack, Microsoft Teams, and other team collaboration tools
+  url:  "https://t4glabs.discourse.group/docs?topic=383"
+  filters: [open-source, freemium]
+  categories: [Teamwork Kit]
+  tags: [FOSS]
+
+- name: Matrix Messenger
+  description: A secure, end-to-end encrypted alternative to traditional centralised messaging platforms
+  url:  "https://t4glabs.discourse.group/docs?topic=382"
+  filters: [open-source, freemium]
+  categories: [Teamwork Kit]
+  tags: [FOSS]
+
+- name: Signal
+  description: One of the most Secure messaging apps to communicate safely and privately with your team and communities
+  url: "https://t4glabs.discourse.group/docs?topic=375"
+  filters: [open-source, free]
+  categories: [Teamwork Kit]
+  tags: [FOSS]
+
+- name: Coming Soon...
+  description: ...
+  url: ""
+  filters: []
+  categories: [🔥 Open Challenges]
+  tags: [FOSS]
