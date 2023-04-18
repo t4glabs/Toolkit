@@ -475,9 +475,9 @@
   categories: [Teamwork Kit]
   tags: [FOSS]
 
-- name: Coming Soon...
-  description: ...
-  url: ""
-  filters: []
+- name: Setup Online Learning Management System using Pupilfirst
+  description: Looking for Interns, Volunteers, FOSS Enthusiasts to set up an Online Learning Management System (LMS) for more than 35K+ students of Kerala's Student Police Cadet Training Program
+  url: "https://t4glabs.discourse.group/t/looking-for-interns-volunteers-to-set-up-an-online-learning-management-system-lms-for-more-than-35k-students-of-keralas-student-police-cadet-training-program/556"
+  filters: [Open]
   categories: [0. 🔥 Open Challenges]
   tags: [FOSS]
