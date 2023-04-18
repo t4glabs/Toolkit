@@ -358,6 +358,7 @@
   
 - name: OpenBrackets Foundation
   description: Enabling NGOs to get the most out of technology
+  url:  "https://openbrackets.in/"
   filters: [Service Provider, Consulting]
   categories: [3. Tech Partners]
   tags: []
