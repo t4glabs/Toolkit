@@ -216,6 +216,20 @@
   categories: [Website Kit]
   tags: [FOSS]
 
+- name: Plausible
+  description: An open-source project dedicated to making web analytics more privacy-friendly..
+  url: "https://plausible.io/"
+  filters: [open-source]
+  categories: [Website Kit]
+  tags: [FOSS]
+
+- name: Matomo
+  description: Google Analytics alternative that protects your data and your customers' privacy.
+  url: "https://matomo.org"
+  filters: [open-source, free]
+  categories: [Website Kit]
+  tags: [FOSS]
+
 - name: GnuCash
   description: An open-source, versatile financial management software designed for personal and small-business use. With a wide range of features and an intuitive interface, GnuCash is an ideal solution for non-profits and social justice organizations seeking to manage their finances effectively without compromising on cost or accessibility.
   url: "https://t4glabs.discourse.group/docs?topic=520"
@@ -465,5 +479,5 @@
   description: ...
   url: ""
   filters: []
-  categories: [🔥 Open Challenges]
+  categories: [0. 🔥 Open Challenges]
   tags: [FOSS]
