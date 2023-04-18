@@ -334,6 +334,54 @@
   filters: [Service Provider, Product Design, Consulting]
   categories: [3. Tech Partners]
   tags: []
+  
+- name: TinkerHub
+  description: A community of tinkerers, makers, policy geeks & students empowering those who share a passion to innovate.
+  url:  "https://www.tinkerhub.org/"
+  filters: [Interns, Tech Talent, Volunteers]
+  categories: [3. Tech Partners]
+  tags: []
+  
+- name: Samanvay Foundation
+  description: Technology Consulting. Software Development. Application Integration. Open Source. Managed Service.
+  url:  "https://www.samanvayfoundation.org/"
+  filters: [Service Provider, Consulting]
+  categories: [3. Tech Partners]
+  tags: []
+
+- name: Colored Cow
+  description: A web development & mobile app development company that delivers tech solutions specialized for Social Sector.
+  url:  "https://coloredcow.com/"
+  filters: [Service Provider, Consulting]
+  categories: [3. Tech Partners]
+  tags: []
+  
+- name: OpenBrackets Foundation
+  description: Enabling NGOs to get the most out of technology
+  filters: [Service Provider, Consulting]
+  categories: [3. Tech Partners]
+  tags: []
+  
+- name: Kalvium
+  description: India’s 1st Liberal Engineering Program in Computer Science and graduate with new-age tech skills and 3 Years of Work Experience.
+  url:  "https://kalvium.com/"
+  filters: [Interns, Tech Talent]
+  categories: [3. Tech Partners]
+  tags: []
+  
+- name: Tech4Good Community
+  description: A social change initiative that works towards demystifying & instituionalising technology for all Indian nonprofit organizations leading to amplified social impact.
+  url:  "https://tech4goodcommunity.com/"
+  filters: [Training, Mentoring, Strategy]
+  categories: [3. Tech Partners]
+  tags: []
+  
+- name: T4G Labs & Tech4Good Fellows
+  description: Helping changemakers co-create free and open tech to create positive impact for vulnerable communities.
+  url:  "https://t4glabs.org/"
+  filters: [Strategy, Tech Talent, Training, Mentoring]
+  categories: [3. Tech Partners]
+  tags: []
 
 - name: OptIT
   description: IT infrastructure solutions & services company. Focused to bring you the highest returns on your investment.
