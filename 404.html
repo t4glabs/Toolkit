@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        * {
+            padding: 0%;
+            margin: 0%;
+            box-sizing: border-box;
+            font-family: "Fira Sans", "Helvetica Neue", "Segoe UI", sans-serif;
+
+        }
+
+        .Main-div {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            border-radius: 10px;
+            width: 450px;
+            padding: 40px 45px;
+            gap: 18px;
+            border: 1px solid #4CAF50;
+        }
+
+        .section {
+            display: flex;
+            justify-content: center;
+            margin-top: 145px;
+        }
+
+        .h1404 {
+            font-size: 78px;
+            font-family: system-ui;
+            color: #4CAF50;
+
+        }
+
+        #p-tag {
+            font-size: 26px;
+            font-weight: 600;
+            color: #565e61;
+
+        }
+
+        #p {
+            font-size: 18px;
+            color: #565e61;
+
+        }
+
+        .re-btn {
+            padding: 10px;
+            font-size: 15px;
+            background-color: #56cf84;
+            border-radius: 10px;
+            color: #fff;
+            border: none;
+        }
+
+        .re-btn:hover {
+            background-color: #24b15a;
+        }
+a{
+    text-decoration: none;
+    color: #fff;
+}
+
+        @media (max-width: 770px) {
+
+            .section {
+                margin-top: 145px;
+                padding: 15px;
+            }
+
+            .Main-div {
+                width: 400px;
+                padding: 20px;
+                gap: 18px;
+                border: 1px solid #4CAF50;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <section class="section">
+        <div class="Main-div">
+            <h1 class="h1404">404</h1>
+            <p id="p-tag">Oops... Nothing here...</p>
+            <p id="p">The page you're looking for doesn't exist.</p>
+            <button class="re-btn"><a href="./index.html">RETURN HOME</a>
+                </button>
+        </div>
+    </section>
+</body>
+
+</html>
