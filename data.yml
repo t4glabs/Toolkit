@@ -489,6 +489,20 @@
   categories: [4. FOSS Friends]
   tags: []
 
+- name: Sameer Abdulla
+  description: test
+  url:  "https://www.linkedin.com/in/sameer-abdulla-93838b224/"
+  filters: []
+  categories: [4. FOSS Friends]
+  tags: []
+
+- name: Jyothish T R
+  description: test
+  url:  "https://www.linkedin.com/in/jyothishtr2001/"
+  filters: []
+  categories: [4. FOSS Friends]
+  tags: []
+
 - name: Mattermost
   description: Secure messaging platform that is an alternative to Slack, Microsoft Teams, and other team collaboration tools
   url:  "https://t4glabs.discourse.group/docs?topic=383"
@@ -510,16 +524,16 @@
   categories: [Teamwork Kit]
   tags: [FOSS]
 
-- name: Setup Online Learning Management System using Pupilfirst
-  description: Looking for Interns, Volunteers, FOSS Enthusiasts to set up an Online Learning Management System (LMS) for more than 35K+ students of Kerala's Student Police Cadet Training Program
-  url: "https://t4glabs.discourse.group/t/looking-for-interns-volunteers-to-set-up-an-online-learning-management-system-lms-for-more-than-35k-students-of-keralas-student-police-cadet-training-program/556"
-  filters: [Open]
-  categories: [0. Open Challenges]
-  tags: [FOSS]
+# - name: Setup Online Learning Management System using Pupilfirst
+#   description: Looking for Interns, Volunteers, FOSS Enthusiasts to set up an Online Learning Management System (LMS) for more than 35K+ students of Kerala's Student Police Cadet Training Program
+#   url: "https://t4glabs.discourse.group/t/looking-for-interns-volunteers-to-set-up-an-online-learning-management-system-lms-for-more-than-35k-students-of-keralas-student-police-cadet-training-program/556"
+#   filters: [Open]
+#   categories: [0. Open Challenges]
+#   tags: [FOSS]
   
-- name: Reusing FOSS tech for a helpline for girls at risk of Human Trafficking
-  description: Looking for Volunteers, Interns to co-create by reusing FOSS tech for a helpline for girls at risk of Human Trafficking
-  url: "https://t4glabs.discourse.group/t/looking-for-volunteers-interns-to-co-create-by-reusing-foss-tech-for-a-helpline-for-girls-at-risk-of-human-trafficking/557"
-  filters: [Open]
-  categories: [0. Open Challenges]
-  tags: [FOSS]
+# - name: Reusing FOSS tech for a helpline for girls at risk of Human Trafficking
+#   description: Looking for Volunteers, Interns to co-create by reusing FOSS tech for a helpline for girls at risk of Human Trafficking
+#   url: "https://t4glabs.discourse.group/t/looking-for-volunteers-interns-to-co-create-by-reusing-foss-tech-for-a-helpline-for-girls-at-risk-of-human-trafficking/557"
+#   filters: [Open]
+#   categories: [0. Open Challenges]
+#   tags: [FOSS]
