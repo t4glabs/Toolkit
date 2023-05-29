@@ -69,10 +69,10 @@
   categories: [Knowledge Management kit]
   tags: [FOSS]
 
-- name: Confluence
-  description: Company-wide knowledge hub that empowers all teams to drive smarter, faster decisions.
-  url: "https://www.atlassian.com/software/confluence"
-  filters: [free]
+- name: MediaWiki
+  description: Collaboration and documentation platform brought to you by a vibrant community.
+  url: "https://www.mediawiki.org/wiki/MediaWiki"
+  filters: [open-source, free]
   categories: [Knowledge Management kit]
   tags: [FOSS]
 
