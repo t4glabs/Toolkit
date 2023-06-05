@@ -490,16 +490,16 @@
   tags: []
 
 - name: Sameer Abdulla
-  description: test
+  description: A open source enthusiast. Interested in machine learning and data science. Can help with backend and deployment and with data analytics tools like apache spark.
   url:  "https://www.linkedin.com/in/sameer-abdulla-93838b224/"
-  filters: []
+  filters: [Developer, Problem-solving]
   categories: [4. FOSS Friends]
   tags: []
 
 - name: Jyothish T R
-  description: test
+  description: Intermediate programming in python. Passionate about AI/ML. An AR/VR enthusiast and is good with sparkAR.
   url:  "https://www.linkedin.com/in/jyothishtr2001/"
-  filters: []
+  filters: [Developer]
   categories: [4. FOSS Friends]
   tags: []
 
