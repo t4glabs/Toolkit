@@ -48,6 +48,41 @@
   categories: [Data Toolkit]
   tags: [FOSS]
 
+- name: Jamovi
+  description: An open statistical software for the desktop and cloud.
+  url: "https://www.jamovi.org/"
+  filters: [open-source, free]
+  categories: [Data Toolkit]
+  tags: [FOSS]
+
+- name: Outline
+  description: A modern team knowledge base for your internal documentation, product specs, support answers, meeting notes, onboarding and more.
+  url: "https://www.getoutline.com/"
+  filters: [open-source, freemium]
+  categories: [Knowledge Management kit]
+  tags: [FOSS]
+
+- name: Bluespice
+  description: Find knowledge easily! - Enterprise wiki software for teams and mid-sized companies.
+  url: "https://bluespice.com/"
+  filters: [open-source, freemium]
+  categories: [Knowledge Management kit]
+  tags: [FOSS]
+
+- name: MediaWiki
+  description: Collaboration and documentation platform brought to you by a vibrant community.
+  url: "https://www.mediawiki.org/wiki/MediaWiki"
+  filters: [open-source, free]
+  categories: [Knowledge Management kit]
+  tags: [FOSS]
+
+- name: Hollie's Hub for Good
+  description: Credits from Digital ocean - Make an impact with Hollie's Hub for Good.
+  url: "https://www.digitalocean.com/community/pages/hollies-hub-for-good"
+  filters: [free, credits]
+  categories: [Hosting kit]
+  tags: [FOSS]
+
 - name: Chatwoot
   description: Chatwoot is an open-source customer support platform that enables businesses to manage their customer conversations. It’s a user-friendly, all-in-one solution that streamlines the customer support process.
   url: "https://t4glabs.discourse.group/docs?topic=471"
@@ -454,6 +489,20 @@
   categories: [4. FOSS Friends]
   tags: []
 
+- name: Sameer Abdulla
+  description: A open source enthusiast. Interested in machine learning and data science. Can help with backend and deployment and with data analytics tools like apache spark.
+  url:  "https://www.linkedin.com/in/sameer-abdulla-93838b224/"
+  filters: [Developer, Problem-solving]
+  categories: [4. FOSS Friends]
+  tags: []
+
+- name: Jyothish T R
+  description: Intermediate programming in python. Passionate about AI/ML. An AR/VR enthusiast and is good with sparkAR.
+  url:  "https://www.linkedin.com/in/jyothishtr2001/"
+  filters: [Developer]
+  categories: [4. FOSS Friends]
+  tags: []
+
 - name: Mattermost
   description: Secure messaging platform that is an alternative to Slack, Microsoft Teams, and other team collaboration tools
   url:  "https://t4glabs.discourse.group/docs?topic=383"
@@ -475,16 +524,16 @@
   categories: [Teamwork Kit]
   tags: [FOSS]
 
-- name: Setup Online Learning Management System using Pupilfirst
-  description: Looking for Interns, Volunteers, FOSS Enthusiasts to set up an Online Learning Management System (LMS) for more than 35K+ students of Kerala's Student Police Cadet Training Program
-  url: "https://t4glabs.discourse.group/t/looking-for-interns-volunteers-to-set-up-an-online-learning-management-system-lms-for-more-than-35k-students-of-keralas-student-police-cadet-training-program/556"
-  filters: [Open]
-  categories: [0. Open Challenges]
-  tags: [FOSS]
+# - name: Setup Online Learning Management System using Pupilfirst
+#   description: Looking for Interns, Volunteers, FOSS Enthusiasts to set up an Online Learning Management System (LMS) for more than 35K+ students of Kerala's Student Police Cadet Training Program
+#   url: "https://t4glabs.discourse.group/t/looking-for-interns-volunteers-to-set-up-an-online-learning-management-system-lms-for-more-than-35k-students-of-keralas-student-police-cadet-training-program/556"
+#   filters: [Open]
+#   categories: [0. Open Challenges]
+#   tags: [FOSS]
   
-- name: Reusing FOSS tech for a helpline for girls at risk of Human Trafficking
-  description: Looking for Volunteers, Interns to co-create by reusing FOSS tech for a helpline for girls at risk of Human Trafficking
-  url: "https://t4glabs.discourse.group/t/looking-for-volunteers-interns-to-co-create-by-reusing-foss-tech-for-a-helpline-for-girls-at-risk-of-human-trafficking/557"
-  filters: [Open]
-  categories: [0. Open Challenges]
-  tags: [FOSS]
+# - name: Reusing FOSS tech for a helpline for girls at risk of Human Trafficking
+#   description: Looking for Volunteers, Interns to co-create by reusing FOSS tech for a helpline for girls at risk of Human Trafficking
+#   url: "https://t4glabs.discourse.group/t/looking-for-volunteers-interns-to-co-create-by-reusing-foss-tech-for-a-helpline-for-girls-at-risk-of-human-trafficking/557"
+#   filters: [Open]
+#   categories: [0. Open Challenges]
+#   tags: [FOSS]
