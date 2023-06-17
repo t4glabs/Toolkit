@@ -83,6 +83,13 @@
   categories: [Hosting kit]
   tags: [FOSS]
 
+- name: Oracle free tier VPS
+  description: a free time-limited promotional trial that allows you to explore a wide range of Oracle Cloud Infrastructure products, and a set of Always Free offers that never expire.
+  url: "https://docs.oracle.com/en-us/iaas/Content/FreeTier/freetier.htm"
+  filters: [free, vps]
+  categories: [Hosting kit]
+  tags: [FOSS]
+
 - name: Chatwoot
   description: Chatwoot is an open-source customer support platform that enables businesses to manage their customer conversations. It’s a user-friendly, all-in-one solution that streamlines the customer support process.
   url: "https://t4glabs.discourse.group/docs?topic=471"
