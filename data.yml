@@ -461,6 +461,13 @@
   categories: [3. Tech Partners]
   tags: []
 
+- name: Tekdi
+  description: Digital transformation solutions that continuously transform your business model giving you the edge to compete, differentiate and lead your business.
+  url:  "https://www.tekdi.net/"
+  filters: [digital-transformation, product-engineering]
+  categories: [3. Tech Partners]
+  tags: [FOSS]
+
 - name: Jinso Raj
   description: Jinso is a Tech4Good Fellow at T4G Labs. Can help with Telegram Bots, Websites, Deploying open-source tools and configuring. He is currently enrolled for the Frappe Developer Certification course.
   url:  "https://www.linkedin.com/in/jinsoraj/"
