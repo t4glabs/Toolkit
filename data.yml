@@ -90,6 +90,20 @@
   categories: [Hosting kit]
   tags: [FOSS]
 
+- name: Coolify
+  description: An open-source & self-hostable Heroku / Netlify alternative.
+  url: "https://coolify.io/"
+  filters: [open-source]
+  categories: [Hosting kit]
+  tags: [FOSS]
+
+- name: Focalboard
+  description: Open source project management for technical teams.
+  url: "https://www.focalboard.com/"
+  filters: [open-source, free]
+  categories: [Project Management kit]
+  tags: [FOSS]
+
 - name: Chatwoot
   description: Chatwoot is an open-source customer support platform that enables businesses to manage their customer conversations. It’s a user-friendly, all-in-one solution that streamlines the customer support process.
   url: "https://t4glabs.discourse.group/docs?topic=471"
