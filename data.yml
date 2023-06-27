@@ -300,6 +300,13 @@
   categories: [Operations Kit]
   tags: [FOSS]
 
+- name: Jitsi
+  description: More secure, more flexible, and completely free video conferencing
+  url: "https://jitsi.org/"
+  filters: [open-source, free]
+  categories: [Operations Kit]
+  tags: [FOSS]
+
 - name: GIMP
   description: An open-source, powerful, and versatile image editing software
   url:  "https://t4glabs.discourse.group/docs?topic=528"
