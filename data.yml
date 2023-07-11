@@ -230,6 +230,13 @@
   categories: [Operations Kit]
   tags: [FOSS]
 
+- name: Shelf
+  description: Leading open source asset management software for everyone. Focus on increasing the visibility of your assets. Not managing a clunky system.
+  url: "https://www.shelf.nu/"
+  filters: [open-source]
+  categories: [Operations Kit]
+  tags: [FOSS]
+
 - name: Bahmni
   description: Deliver health services to your community with this amazing healthcare records and patient information management tool.
   url: "https://t4glabs.discourse.group/docs?topic=391"
