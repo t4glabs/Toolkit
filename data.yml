@@ -321,6 +321,13 @@
   categories: [Design Kit]
   tags: [FOSS]
 
+- name: Excalidraw
+  description: Excalidraw is a virtual collaborative whiteboard tool tha lets you easily sketch diagrams that have a hand-drawn feel to them
+  url:  "https://excalidraw.com/"
+  filters: [open-source, free]
+  categories: [Design Kit]
+  tags: [FOSS]
+
 - name: Undraw
   description: Ready made Free Illustrations to use in powerpoints, reports, websites, posters, brochures and more
   url:  "https://t4glabs.discourse.group/docs?topic=462"
