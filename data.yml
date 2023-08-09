@@ -596,7 +596,7 @@
 
 - name: Castopod
   description: Castopod is a free and open-source hosting platform made for podcasters. Engage and interact with your audience whilst keeping control over your content.
-  url: "ttps://castopod.org/"
+  url: "https://castopod.org/"
   filters: [open-source, free]
   categories: [Audio Visual Kit]
   tags: [FOSS]
