@@ -322,7 +322,7 @@
   tags: [FOSS]
 
 - name: Excalidraw
-  description: Excalidraw is a virtual collaborative whiteboard tool tha lets you easily sketch diagrams that have a hand-drawn feel to them
+  description: Excalidraw is a virtual collaborative whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them
   url:  "https://excalidraw.com/"
   filters: [open-source, free]
   categories: [Design Kit]
@@ -578,6 +578,27 @@
   url: "https://t4glabs.discourse.group/docs?topic=375"
   filters: [open-source, free]
   categories: [Teamwork Kit]
+  tags: [FOSS]
+
+- name: Audacity
+  description: Audacity is an easy-to-use, multi-track audio editor and recorder for Windows, macOS, GNU/Linux and other operating systems. Audacity is free, open source software.
+  url: "https://www.audacityteam.org/"
+  filters: [open-source, free]
+  categories: [Audio Visual Kit]
+  tags: [FOSS]
+
+- name: OBS Studio
+  description: Free and open source software for video recording and live streaming
+  url: "https://obsproject.com/"
+  filters: [open-source, free]
+  categories: [Audio Visual Kit]
+  tags: [FOSS]
+
+- name: Castopod
+  description: Castopod is a free and open-source hosting platform made for podcasters. Engage and interact with your audience whilst keeping control over your content.
+  url: "ttps://castopod.org/"
+  filters: [open-source, free]
+  categories: [Audio Visual Kit]
   tags: [FOSS]
 
 # - name: Setup Online Learning Management System using Pupilfirst
