@@ -55,6 +55,13 @@
   categories: [Data Toolkit]
   tags: [FOSS]
 
+- name: Kopia
+  description: Encrypted, Compressed, and Deduplicated Backups Using the Cloud Storage. Use easily on macOS, Windows, linux ready. 
+  url: "https://kopia.io/"
+  filters: [open-source]
+  categories: [Data Toolkit]
+  tags: [FOSS]
+
 - name: Outline
   description: A modern team knowledge base for your internal documentation, product specs, support answers, meeting notes, onboarding and more.
   url: "https://www.getoutline.com/"
@@ -145,6 +152,13 @@
   filters: [free]
   categories: [Security & Privacy Kit]
   tags:  [FOSS]
+
+- name: Subdomain Center
+  description: A simple tool to find open subdomains. 
+  url:  "https://www.subdomain.center/"
+  filters: [free]
+  categories: [Security & Privacy Kit]
+  tags:  []
 
 - name: Avni 
   description: An open-source data collection, aggregation and case management platform to help frontline workers serve communities
