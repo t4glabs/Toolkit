@@ -90,13 +90,6 @@
   categories: [Hosting kit]
   tags: [FOSS]
 
-- name: Oracle free tier VPS
-  description: a free time-limited promotional trial that allows you to explore a wide range of Oracle Cloud Infrastructure products, and a set of Always Free offers that never expire.
-  url: "https://docs.oracle.com/en-us/iaas/Content/FreeTier/freetier.htm"
-  filters: [free, vps]
-  categories: [Hosting kit]
-  tags: [FOSS]
-
 - name: Coolify
   description: An open-source & self-hostable Heroku / Netlify alternative.
   url: "https://coolify.io/"
